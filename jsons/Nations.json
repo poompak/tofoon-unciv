@@ -30,7 +30,11 @@
 		"innerColor": [255,200,200],
 		"favoredReligion": "Taoism",
 		"uniquename": "Eternal Empire",
+<<<<<<< HEAD
 		"unique": ["Remove extra unhappiness from annexed cities",  "[Great General] is earned [50]% faster"],
+=======
+		"unique": ["Remove extra unhappiness from annexed cities","[Great General] is earned [20]% faster", "[+1 Culture] [in all cities]","[+10]% Production towards any buildings that already exist in the Capital"],
+>>>>>>> parent of ea587e1 (Update Nations.json)
 		"cities": ["Trungkiang","Aitia","Canerm","Dziangmai","Ankhiang","Perkkiang","Sincwa","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Nermkiang","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
