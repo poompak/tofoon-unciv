@@ -26,7 +26,7 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
+		"outerColor": [0,101,189],
 		"innerColor": [192,12,48],
 		"favoredReligion": "Taoism",
 		"uniquename": "Eternal Empire",
