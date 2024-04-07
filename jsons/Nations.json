@@ -30,7 +30,7 @@
 		"innerColor": [192,12,48],
 		"favoredReligion": "Taoism",
 		"uniqueName": "Ethernal Empire",
-		"unique": ["Improves movement speed on roads","[+1 Culture] [in all cities]","[+10]% Production towards any buildings that already exist in the Capital"],
+		"unique": ["[+1 Culture] [in all cities]","[+10]% Production towards any buildings that already exist in the Capital"],
 		"cities": ["Trungkiang","Aitia","Canerm","Dziangmai","Ankhiang","Perkkiang","Sincwa","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Nermkiang","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
