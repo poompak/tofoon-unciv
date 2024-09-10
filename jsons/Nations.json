@@ -30,7 +30,7 @@
 		"innerColor": [192,12,48],
 		"favoredReligion": "Taoism",
 		"uniqueName": "Ethernal Empire",
-		"unique": ["Each city founded increases culture cost of policies [+10]% less than normal","[Great General] is earned [25]% faster","[+10]% Production towards any buildings that already exist in the Capital"],
+		"uniques": ["Each city founded increases culture cost of policies [+10]% less than normal","[Great General] is earned [25]% faster","[+10]% Production towards any buildings that already exist in the Capital"],
 		"cities": ["Trungkiang","Aitia","Biangan","Ghanerm","Dziangmai","Ankhiang","Perkkiang","Singhwa","Nyitpua","Dziangkham",
 			"Mon","Thenmuan","Nermkiang","Thang","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
